@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "model": "Submariner",
+      "case_material": "Stainless Steel",
+      "movement": "Automatic",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "brand": "Omega",
+      "model": "Speedmaster Professional",
+      "case_material": "Stainless Steel",
+      "movement": "Manual",
+      "price": 5000
+    },
+    {
+      "id": 3,
+      "brand": "Tag Heuer",
+      "model": "Carrera",
+      "case_material": "Titanium",
+      "movement": "Automatic",
+      "price": 3000
+    },
+    {
+      "id": 4,
+      "brand": "Seiko",
+      "model": "Presage",
+      "case_material": "Stainless Steel",
+      "movement": "Automatic",
+      "price": 500
+    }
+  ]
+  
